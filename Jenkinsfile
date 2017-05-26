@@ -1,3 +1,3 @@
 node {
-	echo "in the jenkinsfile"
+	echo 'in the jenkinsfile'
 }
